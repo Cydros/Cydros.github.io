@@ -1,4 +1,3 @@
-Darkin song link: https://youtu.be/p_8yK2kmxoo
 # Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Cydros/Cydros.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
