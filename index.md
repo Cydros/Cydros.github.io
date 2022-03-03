@@ -1,37 +1,32 @@
-# Welcome to GitHub Pages
+# Welcome to Cydros' LOL page.
 
-You can use the [editor on GitHub](https://github.com/Cydros/Cydros.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## What you need to know about Kayn
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Who is Kayn?
+A peerless practitioner of lethal shadow magic, Shieda Kayn battles to achieve his true destiny—to one day lead the Order of Shadow into a new era of Ionian supremacy. He wields the sentient darkin weapon Rhaast, undeterred by its creeping corruption of his body and mind. There are only two possible outcomes: either Kayn bends the weapon to his will... or the malevolent blade consumes him completely, paving the way for the destruction of all Runeterra.
 
-### Markdown
+## Abilities 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Passive - The Darkin Scythe
+Kayn wields an ancient weapon and fights Rhaast, the darkin within it, for control. Either the Darkin will triumph, or Kayn will master Rhaast and become the Shadow Assassin. Darkin: Heal for a percentage of spell damage dealt to champions. Shadow Assassin: For the first few seconds in combat with enemy champions, deal bonus damage.
 
-```markdown
-Syntax highlighted code block
+### Q - Reaping Slash
+Kayn dashes, then slashes. Both deal damage.
 
-# Header 1
-## Header 2
-### Header 3
+### W - Blades's Reach
+Kayn damages and slows targets in a line.
 
-- Bulleted
-- List
+### E - Shadow Step
+Kayn can walk through terrain.
 
-1. Numbered
-2. List
+### R - Umbral Trespass
+Kayn hides in an enemy's body, dealing massive damage when he bursts out.
 
-**Bold** and _Italic_ and `Code` text
+# TIPS FOR KAYN BEGINNERS
+you are the only one that can change modes in the middle of the game, so choose your side wisely.
 
-[Link](url) and ![Image](src)
-```
+## Choose Darkin if...
+ONLY choose darkin if there are a lot of tanky champions like Cho'Gath, Malphite, Blitzcrank, etc. Because the Darkin can heal with every skill that hits an enemy champion especially the Drakin's ult which heals you based on the enemy champions maximum health. Basically, use it on tanky champions.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Cydros/Cydros.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Choose Shadow assasin if...
+ONLY choose shadow assasin if there are a lot of squishy champions like Ashe, Jinx, Lucian, Jhin, etc. You can flash Q quickly followed by an instant R and R reactivation. Engage at max range by using Q towards your target, then instantly use W and R as soon as it lands, then Q back onto your target. Basically, use it to kill champions that deal massive damage but are vulnurable.
