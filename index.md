@@ -1,8 +1,8 @@
-# Welcome to Cydros' LOL page.
+# Welcome to Cydros' LOL page
 
 ## What you need to know about Kayn
 
-### Who is Kayn?
+### Who is Kayn
 A peerless practitioner of lethal shadow magic, Shieda Kayn battles to achieve his true destiny—to one day lead the Order of Shadow into a new era of Ionian supremacy. He wields the sentient darkin weapon Rhaast, undeterred by its creeping corruption of his body and mind. There are only two possible outcomes: either Kayn bends the weapon to his will... or the malevolent blade consumes him completely, paving the way for the destruction of all Runeterra.
 
 ## Abilities 
@@ -23,7 +23,7 @@ Kayn can walk through terrain.
 Kayn hides in an enemy's body, dealing massive damage when he bursts out.
 
 # TIPS FOR KAYN BEGINNERS
-you are the only one that can change modes in the middle of the game, so choose your side wisely.
+You are the only one that can change modes in the middle of the game, so choose your side wisely. The darkin can heal through his skill and the Shadow Assasin can have faster movement speed and deals additional damage.
 
 ## Choose Darkin if...
 ONLY choose darkin if there are a lot of tanky champions like Cho'Gath, Malphite, Blitzcrank, etc. Because the Darkin can heal with every skill that hits an enemy champion especially the Drakin's ult which heals you based on the enemy champions maximum health. Basically, use it on tanky champions.
